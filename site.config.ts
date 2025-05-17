@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Lamanus\' Blog',
-  domain: 'blog.lamanus.kr',
-  author: 'Lamanus',
+  name: 'Daeho\'s Blog',
+  domain: 'blog.daeho.ro',
+  author: 'Daeho Ro',
 
   // open graph metadata (optional)
-  description: 'Lamanus\' Blog',
+  description: 'Daeho\'s Blog',
 
   // social usernames (optional)
   // twitter: '#',
