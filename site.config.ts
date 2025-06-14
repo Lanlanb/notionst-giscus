@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   // twitter: '#',
   github: 'daeho-ro',
-  // linkedin: '#',
+  linkedin: 'daeho-ro',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`

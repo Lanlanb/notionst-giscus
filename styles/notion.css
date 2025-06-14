@@ -109,7 +109,7 @@
 }
 
 .notion-collection-card:hover .notion-collection-card-cover {
-  filter: brightness(120%);
+  filter: brightness(105%);
 }
 
 .notion-collection-card-body {
