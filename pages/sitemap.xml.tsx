@@ -50,6 +50,8 @@ const getSitemapEntries = (siteMap: SiteMap, now: string) => {
   return Object.keys(siteMap.canonicalPageMap)
     .map(path => {
       const pageId = siteMap.canonicalPageMap[path]
+      if (!pageId) return null
+      
       const recordMap = siteMap.pageMap[pageId]
       if (!recordMap) return null
 

@@ -21,7 +21,7 @@ function ScrollProgress() {
 
     const observer = new IntersectionObserver(
       ([entry]) => {
-        setIsVisible(entry.isIntersecting)
+        setIsVisible(entry?.isIntersecting ?? false)
       },
       { threshold: 0 }
     )
