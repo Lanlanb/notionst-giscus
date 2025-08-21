@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'Bulan\'s Personal Space',
 
   // social usernames (optional)
-  // twitter: '#',
+  twitter: 'bulananalyst',
   github: 'Lanlanb',
   linkedin: 'bulan-nurlaela',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
@@ -55,11 +55,11 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'About',
-      pageId: 'About-13dc813f9c5481d8b258c10555e24785'
+      pageId: '13dc813f9c5481d8b258c10555e24785'
     },
     {
       title: 'Get in Touch',
-      pageId: 'Get-in-Touch-140c813f9c5480c49e9ad6700cbb75b9'
+      pageId: '140c813f9c5480c49e9ad6700cbb75b9'
     }
   ],
 
@@ -69,8 +69,8 @@ export default siteConfig({
     category: 'Comments',
     categoryId: 'DIC_kwDONP10t84Cp1fa',
     mapping: 'pathname',
-    theme: 'fro',
-    darkTheme: 'dark_high_contrast',
+    theme: 'light_tritanopia',
+    darkTheme: 'dark_dimmed',
     lang: 'id'
   }
 })
