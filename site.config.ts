@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Bulan\' Blog',
-  domain: 'nurlaelabulan.my.id',
+  name: 'Bulan\'s Blog',
+  domain: 'blog.nurlaelabulan.my.id',
   author: 'Bulan Nurlaela',
 
   // open graph metadata (optional)
