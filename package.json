@@ -42,7 +42,7 @@
     "expiry-map": "^2.0.0",
     "ky": "^1.8.1",
     "lqip-modern": "^2.2.1",
-    "next": "^15.3.3",
+    "next": "15.3.8",
     "nextjs-google-analytics": "^2.3.7",
     "notion-client": "^7.7.0",
     "notion-types": "^7.7.0",
