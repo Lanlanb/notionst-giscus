@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Bulan\'s Blog',
-  domain: 'blog.nurlaelabulan.my.id',
+  domain: 'nurlaelabulan.my.id',
   author: 'Bulan Nurlaela',
 
   // open graph metadata (optional)
@@ -21,7 +21,7 @@ export default siteConfig({
   github: 'Lanlanb',
   linkedin: 'bulan-nurlaela',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
-  newsletter: 'https://www.nurlaelabulan.my.id/berlangganan', // optional newsletter URL
+  newsletter: '/subscribe', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
